@@ -1,5 +1,6 @@
 dbo.GetOptionsChangeHistory_PCR_Ratio @Ticker = 'NFLX'
 dbo.GetOptionsChangeHistory_PCR_Ratio @Ticker = 'TSLA'
+dbo.GetOptionsChangeHistory_PCR_Ratio @Ticker = 'DELL'
 
 
 
